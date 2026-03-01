@@ -1,0 +1,4 @@
+Nombre: Javier Lima
+Carne: 9941-22-9790
+Seccion: B
+Explicacion: En este programa se da un ejemplo de como usar los nodos, punteros y liberacion de memorias. se le pide al usuario un valor por cada nodo (3 nodos) y al final se muestran en lista para luego ser eliminados de la memoria
