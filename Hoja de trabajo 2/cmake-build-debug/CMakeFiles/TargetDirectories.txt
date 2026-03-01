@@ -1,0 +1,3 @@
+C:/Users/javie/Desktop/progra3 2k26/Hoja de trabajo 2/cmake-build-debug/CMakeFiles/Hoja_de_trabajo_2.dir
+C:/Users/javie/Desktop/progra3 2k26/Hoja de trabajo 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/javie/Desktop/progra3 2k26/Hoja de trabajo 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
