@@ -1,0 +1,3 @@
+C:/Users/javie/Desktop/progra3 2k26/proyectofinal1/cmake-build-debug/CMakeFiles/proyectofinal1.dir
+C:/Users/javie/Desktop/progra3 2k26/proyectofinal1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/javie/Desktop/progra3 2k26/proyectofinal1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
